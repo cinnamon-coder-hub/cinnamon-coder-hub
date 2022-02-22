@@ -1,8 +1,8 @@
 - 👋 Hi, this is @cinnamon-coder-hub
 - 👀 I’m interested in coding and how things work in depth
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on some java web projects to learn and to have some fun while pushing forward a cool project
-- 📫 How to reach me ...
+- 🌱 I’m currently learning javascript, bash-scripting 
+- 💞️ I’m looking to collaborate on network related web projects to learn and to have some fun while pushing forward a cool project
+- 📫 
 
 <!---
 cinnamon-coder-hub/cinnamon-coder-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
